@@ -1,3 +1,5 @@
+// Source: https://www.fixstars.com/en/opencl/book/OpenCLProgrammingBook/first-opencl-program/
+
 #include <stdio.h>
 #include <stdlib.h>
  
